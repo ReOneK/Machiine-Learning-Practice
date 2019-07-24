@@ -1,6 +1,7 @@
 
 # MACHINE LEARNING PRACTICE
-======
+==============
+
 (FROM BOOK NAMED 《MACHINE LEARNING IN ACTION》机器学习实战)
 
 *机器学习开发流程*
@@ -15,4 +16,4 @@
 * 使用算法: 将机器学习算法转为应用程序
  
  
- ![]()
+ ![](https://github.com/ReOneK/Machine-Learning-Practice/blob/master/res/1.png)
