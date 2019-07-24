@@ -1,5 +1,5 @@
 
-#KNN
+# KNN
 
 k-近邻（kNN, k-NearestNeighbor）算法主要是用来进行分类的.
 --
